@@ -15,3 +15,5 @@ add(3, 4);
 - Incomplete refactoring<br/>
 - Breakage around internal code contracts (e.g., an argument becomes required)<br/>
 3. It serves as the foundation for a great code authoring experience<br/>
+
+[Introduction slides](https://www.typescript-training.com/course/fundamentals-v3/01-intro/) :seedling:
