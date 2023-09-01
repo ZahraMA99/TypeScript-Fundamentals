@@ -11,7 +11,7 @@ function add(a: number, b: number): number {
 add(3, 4);
 ```
 <br/>
-2. It has the potential to move some kinds of errors from runtime to compile time.
+2. It has the potential to move some kinds of errors from runtime to compile time.<br/>
 > Examples:
 > 1. Values that are potentially absent (null or undefined)<br/>
 > 2. Incomplete refactoring<br/>
