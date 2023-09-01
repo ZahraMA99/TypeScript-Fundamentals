@@ -13,8 +13,8 @@ add(3, 4);
 <br/>
 2. It has the potential to move some kinds of errors from runtime to compile time.
 > Examples:
-> 1. Values that are potentially absent (null or undefined)
-> 2. Incomplete refactoring
-> 3. Breakage around internal code contracts (e.g., an argument becomes required)
+> 1. Values that are potentially absent (null or undefined)<br/>
+> 2. Incomplete refactoring<br/>
+> 3. Breakage around internal code contracts (e.g., an argument becomes required)<br/>
 <br/>
-3. It serves as the foundation for a great code authoring experience
+3. It serves as the foundation for a great code authoring experience<br/>
